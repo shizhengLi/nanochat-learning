@@ -1,7 +1,7 @@
 # NanoChat项目中文博客大纲
 
 ## 项目概述
-NanoChat是由Andrej Karpathy开发的完整ChatGPT克隆实现，号称"100美元能买到的最好的ChatGPT"。本系列文章将深入分析这个项目的方方面面，适合初学者全面了解大语言模型的实现细节。
+[NanoChat](https://github.com/karpathy/nanochat)是由Andrej Karpathy开发的完整ChatGPT克隆实现，号称"100美元能买到的最好的ChatGPT"。本系列文章将深入分析这个项目的方方面面，适合初学者全面了解大语言模型的实现细节。
 
 ## 博客系列文章
 
